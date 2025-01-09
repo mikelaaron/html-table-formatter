@@ -44,7 +44,7 @@ def generate_html_table(excel_file, sheet_name):
     return html_table
 
 # Example usage:
-excel_file = "/Users/michael.aaron/Library/CloudStorage/OneDrive-Ogilvy/Office/Washington DC/Papermill Post/Events_table.xlsx"
+excel_file = "/Users/michael.aaron/Library/CloudStorage/OneDrive-Ogilvy/DESKTOP/WinterPost.xlsx"
 sheet_name = "Sheet1"  
 
 html_output = generate_html_table(excel_file, sheet_name)
